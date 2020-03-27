@@ -7,17 +7,16 @@ https://www.bilibili.com/video/av21376839/
 
 ![bilibili](/image/cs40.jpg)    
 
-## 字幕文件也放出来了   
-为了方便大家学习，我们把字幕也放出来了       
-字幕片头的总结在 **README 的底部**，方便搜索和翻阅       
-如果你需要字幕的文本，40集中英字幕我们做了2个版本：        
+## 字幕也放出来了(40集中英字幕)         
+两个版本：        
 
-1. 所有字幕都放到一个文件里： [(字幕) 全40集中英字幕文本.txt](./(字幕)全40集中英字幕文本.txt)       
-2. 一集一个文件，一共40个文件： [(字幕)全40集中英字幕文本](./(字幕)全40集中英字幕文本)          
+* [所有字幕放一个文件里](./(字幕)全40集中英字幕文本.txt)       
+* [每一集一个文件，共40个文件](./(字幕)全40集中英字幕文本)  
 
+另外，片头总结在 **这篇文章的底部**  
 感谢观看，Don't forget to be Awesome!      
 
-### 1. 感谢所有翻译人员！
+## 感谢所有翻译人员！
 * 不想膨胀的小R - [Github](https://github.com/coolralf), [微博](https://weibo.com/u/2207493917), [B站](https://space.bilibili.com/5385034#!/video)
 * 糖醋陈皮 - [Github](https://github.com/1c7), [微博](https://weibo.com/2004104451), [博客](http://1c7.me/)
 * ZireHao - [B站](http://space.bilibili.com/27167876/)    
@@ -29,7 +28,7 @@ https://www.bilibili.com/video/av21376839/
 * TMC - RN
 * LCAR979（推特 `_lincr_`）  
 
-### 第一版：
+### 第一版翻译（不推荐观看，看精校版即可）：
 * 1 - [早期的计算 - Early Computing](https://www.bilibili.com/video/av8861057/)
 * 2 - [电子计算 - Electronic Computing](https://www.bilibili.com/video/av9066628/)
 * 3 - [布尔逻辑与逻辑电路 - Boolean Logic & Logic Gates](https://www.bilibili.com/video/av11557339/)
@@ -77,7 +76,7 @@ https://www.bilibili.com/video/av21376839/
 
 备注：精校负责人是 @糖醋陈皮
 
-### 2. 翻译时间
+## 翻译时间
 英文版：    
 第 1 集发布： 2017年2月22号    
 第 40 集发布：2017年12月21号     
@@ -88,8 +87,8 @@ https://www.bilibili.com/video/av21376839/
 全 40 集精校完成：2018年5月1号  
 
 
-### 2. 原视频
-[Youtube - Crash Course Computer Science Playlist](https://www.youtube.com/playlist?list=PLME-KWdxI8dcaHSzzRsNuOLXtM2Ep_C7a)     
+### 原视频
+[Youtube - Crash Course Computer Science Playlist](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)     
 ![Crash Course CS screenshoht](/image/english.png)       
 
 
@@ -165,7 +164,7 @@ Flag 标志（是否相等，是否小于，是否溢出等等）
 
 
 ## 第 6 集：寄存器和内存  
-本机重点是 Memory （存储 / 内存 两种含义）  
+本集重点是 Memory （存储 / 内存 两种含义）  
 
 03:30  存 1 位  (Gated Latch - 锁存器）  
 04:48  存 8 位  (Register - 寄存器)  
